@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Conversational Image Recognition Chatbot done by - Kaarthic VR
 
@@ -169,4 +170,6 @@ This project is intended for academic and demo use only.
 - [React](https://reactjs.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
+=======
+>>>>>>> 8e642f9a9544ad1f01301f1dd47864cdd99ae7f5
 # Conversational-Image-Recognition-Chatbot
