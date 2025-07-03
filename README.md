@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 
 # Conversational Image Recognition Chatbot done by - Kaarthic VR
 
