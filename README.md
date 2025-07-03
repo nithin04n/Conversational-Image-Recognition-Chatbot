@@ -1,6 +1,6 @@
  
 
-# Conversational Image Recognition Chatbot done by - Kaarthic VR
+# Conversational Image Recognition Chatbot  
 
 This project is an interactive AI system that allows users to upload an image and ask questions about its content through a chat interface. It uses a combination of vision-language models and a conversational frontend to simulate an intelligent image understanding system.
 
